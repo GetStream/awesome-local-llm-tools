@@ -2,8 +2,6 @@
 
 Discover, download and run local LLMs locally on your machine with the top AI tools.
 
-# Markdown table with 3 columns: Name, Description, Link
-
 | LLM Tool                                               | Description                                                         |
 | ------------------------------------------------------ | ------------------------------------------------------------------- |
 | [LM Studio](https://lmstudio.ai/)                      | Run LLMs on your laptop, entirely offline.                          |
@@ -12,3 +10,4 @@ Discover, download and run local LLMs locally on your machine with the top AI to
 | [GPT4ALL](https://www.nomic.ai/gpt4all)                | Run language models on consumer hardware.                           |
 | [Ollama](https://ollama.com/)                          | Get up and running with large language models.                      |
 | [Llama.cpp](https://github.com/ggerganov/llama.cpp)    | Inference of Meta's LLaMA model (and others) in pure C/C++.         |
+| [BitNet](https://github.com/microsoft/BitNet)          | Official inference framework for 1-bit LLMs.                        |
